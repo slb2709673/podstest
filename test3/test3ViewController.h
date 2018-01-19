@@ -10,7 +10,5 @@
 
 @interface test3ViewController : UIViewController
 
-- (void) test3;
-
 
 @end
